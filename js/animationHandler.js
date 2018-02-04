@@ -1,11 +1,37 @@
 $(document).ready(function () {
 
     var animationEnd = 'webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend';
-    var slideInLeft = 'animated fadeInDown';
+    var fadeInDown = 'animated fadeInDown';
 
-    $('h1').addClass(slideInLeft).one(animationEnd, function(){
-        $('h1').removeClass(slideInLeft);
+    $('h1').addClass(fadeInDown).one(animationEnd, function(){
+        $('h1').removeClass(fadeInDown);
+        startLetterAnimation();
     });
-    
+
 });
 
+function startLetterAnimation()
+{
+    var index = 0;
+    var transitionEnd = 'webkitTransitionEnd oTransitionEnd msTransitionEnd transitionend';
+
+    var intervalId = setInterval(function () {
+
+        index++;
+
+        $(`#glow-letter-${index}`).addClass('glowing-character').one(transitionEnd, 
+            characterGlowTransitionEnded.bind(this, index));
+
+        if (index == 4)
+        {
+            clearInterval(intervalId);
+        }
+    }, 1750);
+}
+
+function characterGlowTransitionEnded(index)
+{
+    setTimeout(function() {
+        $(`#glow-letter-${index}`).removeClass('glowing-character');
+    }, 1000);
+}
