@@ -22,16 +22,23 @@ function startLetterAnimation()
         $(`#glow-letter-${index}`).addClass('glowing-character').one(transitionEnd, 
             characterGlowTransitionEnded.bind(this, index));
 
+        appendContentLetters(index);
+
         if (index == 4)
         {
             clearInterval(intervalId);
         }
-    }, 1750);
+    }, 1250);
 }
 
 function characterGlowTransitionEnded(index)
 {
     setTimeout(function() {
         $(`#glow-letter-${index}`).removeClass('glowing-character');
-    }, 1000);
+    }, 750);
+}
+
+function appendContentLetters(index)
+{
+    $('#content').append(`<div class="content-letter">${$(`#glow-letter-${index}`).text()}</div>`)
 }

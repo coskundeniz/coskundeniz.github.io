@@ -1,25 +1,25 @@
 body {
     background-color: #000000;
+    color: #FFD700;
 }
 
 h1 {
     font-family: 'Playfair Display', serif;
     font-size: 4em;
-    color: #FFD700;
     text-align: center;
     margin-top: 5%;
 
-    -webkit-animation-duration: 3s;
-    -moz-animation-duration: 3s;
-    -ms-animation-duration: 3s;
-    animation-duration: 3s;
+    -webkit-animation-duration: 2s;
+    -moz-animation-duration: 2s;
+    -ms-animation-duration: 2s;
+    animation-duration: 2s;
 }
 
 p {
     text-align: center;
 }
 
-a{
+a {
     text-decoration: none;
     color: #DEAE36;
 }
@@ -31,10 +31,38 @@ a:active {text-decoration: none;}
 
 .glowing-character {
     color: rgb(255, 255, 42);
-    text-shadow: 0 0 25px #fff;
+    text-shadow: 0 0 20px #fff;
 
     -webkit-transition: text-shadow 250ms linear;
     -moz-transition: text-shadow 250ms linear;
     -o-transition: text-shadow 250ms linear;
     transition: text-shadow 250ms linear;
+}
+
+#content {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25vh;
+    text-align: center;
+}
+
+#content a {
+    color: #FFD700;
+}
+
+.content-letter {
+    display: inline-block;
+    margin-left: 1vw;
+    margin-right: 1vw;
+    width: 20%;
+    font-size: 11em;
+    border: 2px solid #FFD700;
+    border-radius: 20px;
+}
+
+.content-letter:hover {
+    -webkit-box-shadow: 0px 0px 15px 4px #fff;
+    -moz-box-shadow:    0px 0px 15px 4px #fff;
+    box-shadow:         0px 0px 15px 4px #fff;
 }
