@@ -40,5 +40,12 @@ function characterGlowTransitionEnded(index)
 
 function appendContentLetters(index)
 {
-    $('#content').append(`<div class="content-letter">${$(`#glow-letter-${index}`).text()}</div>`)
+    var animationEnd = 'webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend';
+    var zoomIn = 'animated zoomIn';
+
+    $('#content').append(`<div class="content-letter">${$(`#glow-letter-${index}`).text()}</div>`);
+
+    $(`.content-letter:eq(${index-1})`).addClass(zoomIn).one(animationEnd, function(){
+        $(`.content-letter:eq(${index-1})`).removeClass(zoomIn);
+    });
 }
