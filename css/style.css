@@ -71,4 +71,6 @@ a:active {text-decoration: none;}
     -webkit-box-shadow: 0px 0px 15px 4px #fff;
     -moz-box-shadow:    0px 0px 15px 4px #fff;
     box-shadow:         0px 0px 15px 4px #fff;
+
+    cursor: pointer;
 }
