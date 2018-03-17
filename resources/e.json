@@ -1,10 +1,24 @@
 {
-    "content": "",
-    "links": [
+    "accounts": [
         {
-            "image": "",
-            "name": "",
-            "link": ""
+            "name": "E-MAIL",
+            "link": "mailto:coskun.denize@gmail.com"
+        },
+        {
+            "name": "GITHUB",
+            "link": "https://github.com/coskundeniz"
+        },
+        {
+            "name": "LINKEDIN",
+            "link": "https://www.linkedin.com/in/coskundenizz"
+        },
+        {
+            "name": "INSTAGRAM",
+            "link": "https://www.instagram.com/_ritimdarbuka_/"
+        },
+        {
+            "name": "YOUTUBE",
+            "link": "https://www.youtube.com/user/coskundenize"
         }
     ]
 }

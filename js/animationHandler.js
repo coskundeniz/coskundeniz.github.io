@@ -8,6 +8,10 @@ $(document).ready(function () {
         startLetterAnimation();
     });
 
+    $('h1').click(function(event) {
+        location.reload();
+    });
+
 });
 
 function startLetterAnimation()
@@ -43,7 +47,9 @@ function appendContentLetters(index)
     var animationEnd = 'webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend';
     var zoomIn = 'animated zoomIn';
 
-    $('#content').append(`<div class="content-letter">${$(`#glow-letter-${index}`).text()}</div>`);
+    $('#content').append(`<div class='content-letter'>${$(`#glow-letter-${index}`).text()}</div>`);
+
+    $(`.content-letter:eq(${index-1})`).click({'letter': $(`.content-letter:eq(${index-1})`).text()}, clickHandler);
 
     $(`.content-letter:eq(${index-1})`).addClass(zoomIn).one(animationEnd, function(){
         $(`.content-letter:eq(${index-1})`).removeClass(zoomIn);

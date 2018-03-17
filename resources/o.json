@@ -1,8 +1,45 @@
 {
+    "content": ["Some posts I liked to read..."],
     "readings": [
         {
-            "title": "",
-            "link": ""
+            "title": "Coming Home to Vim",
+            "link": "http://stevelosh.com/blog/2010/09/coming-home-to-vim/?"
+        },
+        {
+            "title": "Learn to Read the Source, Luke",
+            "link": "http://www.codinghorror.com/blog/2012/04/learn-to-read-the-source-luke.html"
+        },
+        {
+            "title": "Some Things I’ve Learnt About Programming",
+            "link": "http://blog.jgc.org/2012/07/some-things-ive-learnt-about.html"
+        },
+        {
+            "title": "Write Less Code",
+            "link": "http://mikegrouchy.com/blog/2012/06/write-less-code.html"
+        },
+        {
+            "title": "Good Programming, Bad Programming", 
+            "link": "http://www.singhrahul.com/2012/11/good-programming-bad-programming.html"
+        },
+        {
+            "title": "Why Learning Assembly Language Is Still a Good Idea", 
+            "link": "http://onlamp.com/pub/a/onlamp/2004/05/06/writegreatcode.html"
+        },
+        {
+            "title": "“The Best Programming Advice I Ever Got” with Rob Pike", 
+            "link": "http://www.informit.com/articles/article.aspx?p=1941206"
+        },
+        {
+            "title": "Importance of Side Projects", 
+            "link": "http://rawsyntax.com/blog/importance-of-side-projects/"
+        },
+        {
+            "title": "Be Happier with Zero Expectation", 
+            "link": "http://bobbyong.com/blog/be-happier-with-zero-expectation/"
+        },
+        {
+            "title": "Why “Open Source” Misses the Point of Free Software", 
+            "link": "https://www.dropbox.com/s/vkhk94wgctu9e0c/p31-stallman.pdf?dl=0"
         }
     ]
 }
