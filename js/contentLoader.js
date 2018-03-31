@@ -1,25 +1,32 @@
 function clickHandler(event)
 {
-    switch (event.data.letter)
+    let previousContent = $('#content').html();
+    history.pushState({name: 'main_page', content: previousContent}, null);
+
+    switch (event.target.id)
     {        
         case 'C':
         {
             getDataFromJson('c.json');       
+            history.pushState({name: 'c_content'}, null, 'about');
             break;
         }
         case 'O':
         {
             getDataFromJson('o.json'); 
+            history.pushState({name: 'o_content'}, null, 'readings');
             break;
         }
         case 'D':
         {
             getDataFromJson('d.json'); 
+            history.pushState({name: 'd_content'}, null, 'darbuka');
             break;
         }
         case 'E':
         {
             getDataFromJson('e.json'); 
+            history.pushState({name: 'e_content'}, null, 'links');
             break;
         }
         default:
@@ -87,3 +94,14 @@ function loadContent(data)
         });
     }
 }
+
+window.addEventListener('popstate', function(event) {
+
+    var state = event.state;
+
+    if (state && state.name === 'main_page')
+    {
+        $('#content').html(state.content);
+        $('.content-letter').click(clickHandler);
+    }
+});

@@ -9,7 +9,11 @@ $(document).ready(function () {
     });
 
     $('h1').click(function(event) {
-        location.reload();
+
+        if (history.state.name !== 'main_page')
+        {
+            history.back();
+        }
     });
 
 });
@@ -47,9 +51,10 @@ function appendContentLetters(index)
     var animationEnd = 'webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend';
     var zoomIn = 'animated zoomIn';
 
-    $('#content').append(`<div class='content-letter'>${$(`#glow-letter-${index}`).text()}</div>`);
+    var letter = $(`#glow-letter-${index}`).text();
 
-    $(`.content-letter:eq(${index-1})`).click({'letter': $(`.content-letter:eq(${index-1})`).text()}, clickHandler);
+    $('#content').append(`<div id='${letter}' class='content-letter'>${letter}</div>`);
+    $(`#${letter}`).click(clickHandler);
 
     $(`.content-letter:eq(${index-1})`).addClass(zoomIn).one(animationEnd, function(){
         $(`.content-letter:eq(${index-1})`).removeClass(zoomIn);
