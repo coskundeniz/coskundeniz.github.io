@@ -99,9 +99,17 @@ window.addEventListener('popstate', function(event) {
 
     var state = event.state;
 
-    if (state && state.name === 'main_page')
+    if (state)
     {
-        $('#content').html(state.content);
-        $('.content-letter').click(clickHandler);
+        if (state.name === 'main_page')
+        {
+            $('#content').html(state.content);
+            $('.content-letter').click(clickHandler);
+        }
+        else
+        {
+            var filename = state.name.split('_')[0] + '.json';
+            getDataFromJson(filename);
+        }
     }
 });
