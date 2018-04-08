@@ -40,6 +40,198 @@
         {
             "title": "Why “Open Source” Misses the Point of Free Software", 
             "link": "https://www.dropbox.com/s/vkhk94wgctu9e0c/p31-stallman.pdf?dl=0"
+        },
+        {
+            "title": "OOP vs Procedural Code", 
+            "link": "https://blog.ircmaxell.com/2012/07/oop-vs-procedural-code.html?m=1"
+        },
+        {
+            "title": "Code Like a Pythonista: Idiomatic Python", 
+            "link": "http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html"
+        },
+        {
+            "title": "Believe you can change", 
+            "link": "http://www.aaronsw.com/weblog/dweck"
+        },
+        {
+            "title": "Developer Time", 
+            "link": "https://www.pydanny.com/developer-time.html"
+        },
+        {
+            "title": "Two star programming", 
+            "link": "http://wordaligned.org/articles/two-star-programming"
+        },
+        {
+            "title": "Ideas have a 2 week shelf life", 
+            "link": "https://stevecorona.com/ideas-have-a-2-week-shelf-life"
+        },
+        {
+            "title": "Why We (Still) Believe in Working Remotely", 
+            "link": "https://stackoverflow.blog/2013/02/01/why-we-still-believe-in-working-remotely/"
+        },
+        {
+            "title": "Drastically Improve Your Python: Understanding Python's Execution Model",
+            "link": "https://jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/"
+        },
+        {
+            "title": "How to start working on a side project", 
+            "link": "https://medium.com/life-of-learning/how-to-start-working-on-a-side-project-39ba4ff482e1"
+        },
+        {
+            "title": "The Zen of Python and Me", 
+            "link": "http://lukasz.langa.pl/1/zen-python-and-me/"
+        },
+        {
+            "title": "Expensive lessons in Python performance tuning", 
+            "link": "http://blog.explainmydata.com/2012/07/expensive-lessons-in-python-performance.html?m=1"
+        },
+        {
+            "title": "ELC: SpaceX lessons learned", 
+            "link": "https://lwn.net/Articles/540368/"
+        },
+        {
+            "title": "Collecting All Cheat Sheets", 
+            "link": "http://overapi.com"
+        },
+        {
+            "title": "Non-Programming Skills Every Programmer Should Have", 
+            "link": "http://www.singhrahul.com/2012/10/non-programming-skills-every-programmer.html"
+        },
+        {
+            "title": "Learnable Programming", 
+            "link": "http://worrydream.com/LearnableProgramming/"
+        },
+        {
+            "title": "Inventing on Principle", 
+            "link": "https://www.youtube.com/watch?v=PUv66718DII"
+        },
+        {
+            "title": "Why We Can No Longer Trust Microsoft", 
+            "link": "https://www.pcmag.com/article2/0,2817,2421733,00.asp"
+        },
+        {
+            "title": "The Internet Is a Surveillance State", 
+            "link": "https://www.schneier.com/essays/archives/2013/03/the_internet_is_a_su.html"
+        },
+        {
+            "title": "Engineers Suck at Finding the Right Jobs", 
+            "link": "https://matt.aimonetti.net/posts/2012/11/14/engineers-suck-at-finding-right-jobs/"
+        },
+        {
+            "title": "5 Programming Mistakes You Should Stop Making", 
+            "link": "http://www.singhrahul.com/2013/07/5-programming-mistakes-you-should-stop.html"
+        },
+        {
+            "title": "ABC: Always Be Coding", 
+            "link": "https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2"
+        },
+        {
+            "title": "Vim After 11 Years", 
+            "link": "https://statico.github.io/vim.html"
+        },
+        {
+            "title": "The 5-Minute Guide to C Pointers", 
+            "link": "https://denniskubes.com/2017/01/24/the-5-minute-guide-to-c-pointers/"
+        },
+        {
+            "title": "Use estimations to become a better Developer", 
+            "link": "https://jibai31.wordpress.com/2013/09/26/use-estimations-to-become-a-better-developer/"
+        },
+        {
+            "title": "The future of programming", 
+            "link": "http://radar.oreilly.com/2013/01/the-future-of-programming.html"
+        },
+        {
+            "title": "code != computer science", 
+            "link": "https://www.ultrasaurus.com/2013/12/code-computer-science/"
+        },
+        {
+            "title": "Privacy And Why It Really Matters", 
+            "link": "https://markopolojarvi.com/privacy.html"
+        },
+        {
+            "title": "Refactoring to Functional–Why Class?", 
+            "link": "http://hadihariri.com/2013/11/24/refactoring-to-functionalwhy-class/"
+        },
+        {
+            "title": "The Anatomy of the Perfect Technical Interview from a Former Amazon VP", 
+            "link": "http://firstround.com/review/The-anatomy-of-the-perfect-technical-interview-from-a-former-Amazon-VP/"
+        },
+        {
+            "title": "Great Hackers", 
+            "link": "http://paulgraham.com/gh.html"
+        },
+        {
+            "title": "7 Reasons Why You Will Never Do Anything Amazing With Your Life", 
+            "link": "https://medium.com/raymmars-reads/7-reasons-why-you-will-never-do-anything-amazing-with-your-life-2a1841f1335d"
+        },
+        {
+            "title": "Write Code Every Day", 
+            "link": "https://johnresig.com/blog/write-code-every-day/"
+        },
+        {
+            "title": "Choosing a Programming Language for Interviews & Jobs", 
+            "link": "http://blog.codingforinterviews.com/best-programming-language-jobs/"
+        },
+        {
+            "title": "Lessons From A Silicon Valley Job Search", 
+            "link": "https://robertheaton.com/2014/03/07/lessons-from-a-silicon-valley-job-search/"
+        },
+        {
+            "title": "Why You Should Be Using a VPN", 
+            "link": "https://lifehacker.com/5940565/why-you-should-start-using-a-vpn-and-how-to-choose-the-best-one-for-your-needs"
+        },
+        {
+            "title": "On Being A Senior Engineer", 
+            "link": "https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/"
+        },
+        {
+            "title": "Richard Stallman - Facebook is Mass Surveillance", 
+            "link": "https://www.youtube.com/watch?v=k2m0xxPtvpw"
+        },
+        {
+            "title": "Become A Better Programmer - How To Read Source Code", 
+            "link": "http://pythonpracticeprojects.com/how-to-read-source-code.html"
+        },
+        {
+            "title": "On becoming an expert C programmer", 
+            "link": "http://www.isthe.com/chongo/tech/comp/c/expert.html"
+        },
+        {
+            "title": "the future of computing", 
+            "link": "https://www.dgsiegel.net/news/2013_12_17-the_future_of_computing"
+        },
+        {
+            "title": "What most young programmers need to learn", 
+            "link": "http://joostdevblog.blogspot.com.tr/2015/01/what-most-young-programmers-need-to.html?m=1"
+        },
+        {
+            "title": "And what I’ve learned from teaching others", 
+            "link": "https://medium.freecodecamp.org/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329"
+        },
+        {
+            "title": "Do Not Learn Frameworks. Learn the Architecture.", 
+            "link": "https://kukuruku.co/post/do-not-learn-frameworks-learn-the-architecture/"
+        },
+        {
+            "title": "Why “Agile” and especially Scrum are terrible", 
+            "link": "https://michaelochurch.wordpress.com/2015/06/06/why-agile-and-especially-scrum-are-terrible/"
+        },
+        {
+            "title": "Evening Ritual: The 7 Things That Will Make You Happy At Night", 
+            "link": "https://www.bakadesuyo.com/2016/02/evening-ritual/"
+        },
+        {
+            "title": "Learning Advanced JavaScript", 
+            "link": "https://johnresig.com/apps/learn/"
+        },
+        {
+            "title": "Time Blocking: Improve Your Focus And Get More Meaningful Work Done", 
+            "link": "http://dariusforoux.com/time-blocking/?utm_source=pocket&utm_medium=email&utm_campaign=pockethits"
+        },
+        {
+            "title": "Multitasking is Killing Your Brain", 
+            "link": "https://medium.com/the-mission/multitasking-is-killing-your-brain-79104e62e930"
         }
     ]
 }
