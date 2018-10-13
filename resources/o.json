@@ -1,5 +1,5 @@
 {
-    "content": ["Some posts I liked to read..."],
+    "content": ["Some posts that I liked to read or watch..."],
     "readings": [
         {
             "title": "Coming Home to Vim",
@@ -260,6 +260,22 @@
         {
             "title": "What Does It Take To Be An Expert At Python?", 
             "link": "https://www.youtube.com/watch?v=7lmCu8wz8ro&feature=youtu.be"
+        },
+        {
+            "title": "Python's Design Philosophy",
+            "link": "http://python-history.blogspot.com/2009/01/pythons-design-philosophy.html"
+        },
+        {
+            "title": "Notes on A Philosophy of Software Design",
+            "link": "https://lethain.com//notes-philosophy-software-design/"
+        },
+        {
+            "title": "I Don’t Believe in Full-Stack Engineering",
+            "link": "https://robinrendle.com/notes/i-dont-believe-in-full-stack-engineering/"
+        },
+        {
+            "title": "Beyond PEP 8 -- Best practices for beautiful intelligible code",
+            "link": "https://www.youtube.com/watch?v=wf-BqAjZb8M"
         }
     ]
 }
