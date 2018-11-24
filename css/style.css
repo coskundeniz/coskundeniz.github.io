@@ -1,10 +1,12 @@
 body {
     background-color: #000000;
     color: #FFD700;
+    font-family: Helvetica, sans-serif;
+    font-weight: normal;
 }
 
 h1 {
-    font-family: 'Playfair Display', serif;
+    font-weight: inherit;
     font-size: 4em;
     text-align: center;
     margin-top: 5%;
@@ -29,7 +31,7 @@ a {
 }
 
 li {
-    font-size: 1.1em;
+    font-size: 1.3em;
     margin-bottom: 1em;
 }
 
