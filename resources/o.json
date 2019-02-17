@@ -276,6 +276,22 @@
         {
             "title": "Beyond PEP 8 -- Best practices for beautiful intelligible code",
             "link": "https://www.youtube.com/watch?v=wf-BqAjZb8M"
+        },
+        {
+            "title": "Transforming Code into Beautiful, Idiomatic Python",
+            "link": "https://www.youtube.com/watch?v=9JEB6EkC5Ek"
+        },
+        {
+            "title": "Why open office design makes you less productive",
+            "link": "https://medium.com/swlh/why-open-office-design-makes-you-less-productive-95d45ffba9eb"
+        },
+        {
+            "title": "The goal is to automate us': welcome to the age of surveillance capitalism",
+            "link": "https://www.theguardian.com/technology/2019/jan/20/shoshana-zuboff-age-of-surveillance-capitalism-google-facebook"
+        },
+        {
+            "title": "The “Bug-O” Notation",
+            "link": "https://overreacted.io/the-bug-o-notation/"
         }
     ]
 }
