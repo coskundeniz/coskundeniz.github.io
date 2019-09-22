@@ -1,30 +1,38 @@
 {
-    "content": ["I love playing darbuka. I am a student at Mısırlı Ahmet Rhythm House.",
+    "content": ["I love playing darbuka. I am a graduate of Mısırlı Ahmet Rhythm House.",
                 "Here is a few links from various performances."],
     "links": [
         {
-            "link": "https://bit.ly/2rBSwHB"
+            "link": "https://bit.ly/2rBSwHB",
+            "image": "images/kompozisyon.png"
         },
         {
-            "link": "https://bit.ly/2SRdcHs"
+            "link": "http://bit.ly/2XBi4T2",
+            "image": "images/snarky_konser.png"
         },
         {
-            "link": "https://bit.ly/2rBOnDC"
+            "link": "https://bit.ly/2SRdcHs",
+            "image": "images/darbuka_1.jpg"
         },
         {
-            "link": "http://bit.ly/2XBi4T2"
+            "link": "https://bit.ly/2rBOnDC",
+            "image": "images/darbuka_2.jpg"
         },
         {
-            "link": "https://bit.ly/2LnkLmI"
+            "link": "https://bit.ly/2LnkLmI",
+            "image": "images/hbsk_fellahi.png"
         },
         {
-            "link": "https://bit.ly/2GkmTMY"
+            "link": "https://bit.ly/2GkmTMY",
+            "image": "images/hbsk_cavus.png"
         },
         {
-            "link": "https://bit.ly/2A1DzTS"
+            "link": "https://bit.ly/2A1DzTS",
+            "image": "images/solo.jpg"
         },
         {
-            "link": "https://bit.ly/2BoHMRk"
+            "link": "https://bit.ly/2BoHMRk",
+            "image": "images/crossroads.png"
         }
     ]
 }

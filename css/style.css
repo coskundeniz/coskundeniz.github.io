@@ -81,6 +81,19 @@ a:active {text-decoration: none;}
     animation-duration: 0.75s;
 }
 
+.video-card {
+    display: inline-block;
+    width: 20%;
+    font-size: 1.3em;
+    margin: 1vw;
+}
+
+.video-link-img {
+    width: 100%;
+    border-top-left-radius: 1em;
+    border-top-right-radius: 1em;
+}
+
 .content-letter:hover {
     -webkit-box-shadow: 0px 0px 15px 4px #fff;
     -moz-box-shadow:    0px 0px 15px 4px #fff;
@@ -109,6 +122,21 @@ a:active {text-decoration: none;}
         margin-left: auto;
         margin-right: auto;
         margin-top: 1.5vh;
+    }
+
+    .video-card {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+        margin-top: 1.5vh;
+        margin-bottom: 1vh;
+        border-radius: 0.5em;
+    }
+
+    .video-link-img {
+        border-top-left-radius: 0.5em;
+        border-top-right-radius: 0.5em;
     }
 
     li {
