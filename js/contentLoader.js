@@ -62,7 +62,7 @@ function loadContent(data)
             var title = entry.title;
             var link = entry.link;
 
-            $('<a/>', {text: title, href: link, target: 'blank'})
+            $('<a/>', {text: title, href: link, target: 'blank', class: 'link-focus'})
                 .appendTo($('<li/>').appendTo('#links'));
         });
     }
@@ -88,7 +88,7 @@ function loadContent(data)
 
         data.accounts.forEach(function(account) {
 
-            $('<a/>', {text: account.name, href: account.link, target: 'blank'})
+            $('<a/>', {text: account.name, href: account.link, target: 'blank', class: 'link-focus'})
                 .appendTo($('<li/>').appendTo('#links'));
 
             if (account.name === 'E-MAIL')
