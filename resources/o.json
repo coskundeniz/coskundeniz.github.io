@@ -15,7 +15,7 @@
         },
         {
             "title": "Write Less Code",
-            "link": "http://mikegrouchy.com/blog/2012/06/write-less-code.html"
+            "link": "https://mikegrouchy.com/blog/write-less-code"
         },
         {
             "title": "Good Programming, Bad Programming",
@@ -34,20 +34,12 @@
             "link": "http://rawsyntax.com/blog/importance-of-side-projects/"
         },
         {
-            "title": "Be Happier with Zero Expectation",
-            "link": "http://bobbyong.com/blog/be-happier-with-zero-expectation/"
-        },
-        {
             "title": "Why “Open Source” Misses the Point of Free Software",
             "link": "https://www.dropbox.com/s/vkhk94wgctu9e0c/p31-stallman.pdf?dl=0"
         },
         {
             "title": "OOP vs Procedural Code",
             "link": "https://blog.ircmaxell.com/2012/07/oop-vs-procedural-code.html?m=1"
-        },
-        {
-            "title": "Code Like a Pythonista: Idiomatic Python",
-            "link": "http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html"
         },
         {
             "title": "Believe you can change",
@@ -70,16 +62,8 @@
             "link": "https://stackoverflow.blog/2013/02/01/why-we-still-believe-in-working-remotely/"
         },
         {
-            "title": "Drastically Improve Your Python: Understanding Python's Execution Model",
-            "link": "https://jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/"
-        },
-        {
             "title": "How to start working on a side project",
             "link": "https://medium.com/life-of-learning/how-to-start-working-on-a-side-project-39ba4ff482e1"
-        },
-        {
-            "title": "The Zen of Python and Me",
-            "link": "http://lukasz.langa.pl/1/zen-python-and-me/"
         },
         {
             "title": "Expensive lessons in Python performance tuning",
@@ -144,10 +128,6 @@
         {
             "title": "code != computer science",
             "link": "https://www.ultrasaurus.com/2013/12/code-computer-science/"
-        },
-        {
-            "title": "Privacy And Why It Really Matters",
-            "link": "https://markopolojarvi.com/privacy.html"
         },
         {
             "title": "Refactoring to Functional–Why Class?",
@@ -252,10 +232,6 @@
         {
             "title": "How to Slow Down Time",
             "link": "https://www.raptitude.com/2018/05/how-to-slow-down-time/?utm_source=pocket&utm_medium=email&utm_campaign=pockethits"
-        },
-        {
-            "title": "Yazılım Mühendislerinin dertlerini gerçekten ‘Agile’ çözer mi?",
-            "link": "https://medium.com/@pinarolguc/yazılım-mühendislerinin-dertlerini-gerçekten-agile-çözer-mi-67676a01f597"
         },
         {
             "title": "What Does It Take To Be An Expert At Python?",
