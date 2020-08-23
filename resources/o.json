@@ -284,6 +284,30 @@
         {
             "title": "Hello World",
             "link": "https://www.bloomberg.com/hello-world"
+        },
+        {
+            "title": "Beginner’s Guide To Abstraction",
+            "link": "https://jesseduffield.com/beginners-guide-to-abstraction/"
+        },
+        {
+            "title": "Delegation: composition and inheritance in object-oriented programming",
+            "link": "https://www.thedigitalcatonline.com/blog/2020/08/17/delegation-composition-and-inheritance-in-object-oriented-programming/"
+        },
+        {
+            "title": "How Python Became the Popular Choice",
+            "link": "https://www.welcometothejungle.com/en/articles/btc-python-popular"
+        },
+        {
+            "title": "Code Only Says What it Does",
+            "link": "https://brooker.co.za/blog/2020/06/23/code.html"
+        },
+        {
+            "title": "Appearances vs Experiences: What Really Makes Us Happy",
+            "link": "https://fs.blog/2020/07/appearances-vs-experiences/"
+        },
+        {
+            "title": "How to write idempotent Bash scripts",
+            "link": "https://arslan.io/2019/07/03/how-to-write-idempotent-bash-scripts/"
         }
     ]
 }
