@@ -1,5 +1,7 @@
 {
-    "content": ["Some posts that I liked to read or watch..."],
+    "content": [
+        "Some posts that I liked to read or watch..."
+    ],
     "readings": [
         {
             "title": "Coming Home to Vim",
@@ -340,6 +342,10 @@
         {
             "title": "The Insecurity Industry",
             "link": "https://edwardsnowden.substack.com/p/ns-oh-god-how-is-this-legal"
+        },
+        {
+            "title": "Internalized Capitalism",
+            "link": "https://chicago.suntimes.com/well/2021/6/18/22539945/internalized-capitalism-putting-work-before-health-happiness-signs-mental-health-wellness"
         },
         {
             "title": "Objectionable Content (Python Object Model) || James Powell",

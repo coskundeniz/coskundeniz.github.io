@@ -1,10 +1,11 @@
 {
-    "content": ["I am a software developer living in Istanbul/TURKEY.",
-                "I graduated from Istanbul Technical University Computer Engineering Department.",
-                "I love playing darbuka, taking photographs, and writing with fountain pens.",
-                "My favourite programming language is Python.",
-                "I prefer to use GNU/Linux systems and believe the idea of free software.",
-                "I do not want to work for military/destructive technologies.",
-                "I like to work on tools that help people more than making bosses richer(ideally)."
-               ]
+    "content": [
+        "I am a software developer living in Istanbul/TURKEY.",
+        "I graduated from Istanbul Technical University Computer Engineering Department.",
+        "My favourite programming language is Python.",
+        "I prefer to use GNU/Linux systems and believe the idea of free software.",
+        "I love playing darbuka, taking photographs, and writing with fountain pens.",
+        "I do not want to work for military/destructive technologies.",
+        "I like to work on tools that help people more than making bosses richer(ideally)."
+    ]
 }
