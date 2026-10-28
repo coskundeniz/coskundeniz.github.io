@@ -172,10 +172,6 @@
             "link": "https://www.youtube.com/watch?v=k2m0xxPtvpw"
         },
         {
-            "title": "Become A Better Programmer - How To Read Source Code",
-            "link": "http://pythonpracticeprojects.com/how-to-read-source-code.html"
-        },
-        {
             "title": "On becoming an expert C programmer",
             "link": "http://www.isthe.com/chongo/tech/comp/c/expert.html"
         },
@@ -218,10 +214,6 @@
         {
             "title": "Bad Reasons to Hack on Open Source Projects",
             "link": "https://blog.codecombat.com/reasons-why-you-shouldnt-hack-on-open-source-projects/"
-        },
-        {
-            "title": "Uzun süre oturmak bedene ihanet",
-            "link": "https://www.ntv.com.tr/yazarlar/prof-dr-osman-muftuoglu/uzun-sure-oturmak-bedene-ihanet,vE6xvBgbJkqU2qR_8jcpIA"
         },
         {
             "title": "What I learned by living without artificial light",
@@ -370,6 +362,26 @@
         {
             "title": "Scrum Has Failed the Developers",
             "link": "https://medium.com/serious-scrum/scrum-has-failed-the-developers-547dfe09cc53"
+        },
+        {
+            "title": "The AI coding trap",
+            "link": "https://chrisloy.dev/post/2025/09/28/the-ai-coding-trap"
+        },
+        {
+            "title": "21 Lessons From 14 Years at Google",
+            "link": "https://addyosmani.com/blog/21-lessons/"
+        },
+        {
+            "title": "Agentic Coding is a Trap",
+            "link": "https://larsfaye.com/articles/agentic-coding-is-a-trap"
+        },
+        {
+            "title": "AI Coding will Prevent Expertise",
+            "link": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise"
+        },
+        {
+            "title": "Code Is Cheap Now. Software Isn’t.",
+            "link": "https://www.chrisgregori.dev/opinion/code-is-cheap-now-software-isnt"
         }
     ]
 }
